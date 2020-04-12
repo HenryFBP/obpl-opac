@@ -1,0 +1,11 @@
+v1
+
+CHANGES:
+
+First working image!
+
+Notes:
+
+- No domain white/blacklisting.
+- Fully functional OPAC, (mostly) prevents closing/navigating away from browser.
+- Very vulnerable to 'power users' (CTRL-W, ALT-TAB, CTRL-ALT-T, etc.)

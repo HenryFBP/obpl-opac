@@ -1,0 +1,11 @@
+v3
+
+CHANGES:
+
+Image adapted for Falmouth Public Library.
+
+No functionality has changed, BUT the image is now 8GB instead of 32GB.
+
+Notes:
+
+- No notes.
